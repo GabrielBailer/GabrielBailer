@@ -1,2 +1,2 @@
 - Hi my name is @GabrielBailer
-- I'm a beginner brazilian developer
+- I'm a brazilian developer
